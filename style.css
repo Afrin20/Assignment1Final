@@ -1,0 +1,30 @@
+ body{
+    font-family: 'Poppins', sans-serif; 
+margin: 0%;
+ }
+ h1{
+    font-size:40;  
+ }
+ .section-first{
+    text-size-adjust: 33;
+    color: white;
+    padding-top: 100px;
+    text-align: center;
+    background-image: url(images/donation1.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 70%;
+ }
+.link-button{
+    text-decoration: none;
+    background-color: orange;
+    padding: 10px 40px;
+    border-radius: 5px;
+  color:white ;
+  font-weight: 700;
+}
+.second-part{
+    text-align: center;
+    color: black;
+}
+
